@@ -5,7 +5,7 @@ gem 'bootstrap-sass', '2.3.0.1'
 gem 'bcrypt-ruby', '3.0.1'
 
 group :development, :test do
-  gem 'sqlite3'
+  # gem 'sqlite3'
   # gem 'rspec-rails', '2.13.0'
   gem 'rspec-rails', '3.3.2'
   # gem 'guard-rspec', '2.5.0'
