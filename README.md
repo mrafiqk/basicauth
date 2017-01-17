@@ -1,3 +1,3 @@
-## Ruby on Rails Tutorial: sample authentication application
+## Ruby on Rails Tutorial: simple authentication 
 
 
